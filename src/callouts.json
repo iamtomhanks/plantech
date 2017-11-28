@@ -1,0 +1,432 @@
+[
+  {
+    "id": 1,
+    "product": "Town",
+    "floorplan": "blossom_lower.svg",
+    "calloutNumber": 10,
+    "x": 87.62,
+    "y": 37.08,
+    "img": "",
+    "text": "Bump out windows for max space"
+  },
+  {
+    "id": 2,
+    "product": "Town",
+    "floorplan": "blossom_main.svg",
+    "calloutNumber": 1,
+    "x": 62.05,
+    "y": 14.98,
+    "img": "",
+    "text": "Grand glass slider & window to deck"
+  },
+  {
+    "id": 3,
+    "product": "Town",
+    "floorplan": "blossom_main.svg",
+    "calloutNumber": 3,
+    "x": 20.6,
+    "y": 82.18,
+    "img": "",
+    "text": "Extra-wide garage for storage"
+  },
+  {
+    "id": 4,
+    "product": "Town",
+    "floorplan": "blossom_main.svg",
+    "calloutNumber": 4,
+    "x": 87.91,
+    "y": 34.69,
+    "img": "",
+    "text": "Bump out window for buffet or seating"
+  },
+  {
+    "id": 5,
+    "product": "Town",
+    "floorplan": "blossom_main.svg",
+    "calloutNumber": 6,
+    "x": 29.86,
+    "y": 42.21,
+    "img": "6.jpg",
+    "text": "Extra large walk-in closet"
+  },
+  {
+    "id": 6,
+    "product": "Town",
+    "floorplan": "blossom_main.svg",
+    "calloutNumber": 8,
+    "x": 62.92,
+    "y": 29.47,
+    "img": "8.jpg",
+    "text": "Open concept living"
+  },
+  {
+    "id": 7,
+    "product": "Town",
+    "floorplan": "blossom_main.svg",
+    "calloutNumber": 12,
+    "x": 78.08,
+    "y": 88.17,
+    "img": "12.jpg",
+    "text": "Spacious front porch for relaxing"
+  },
+  {
+    "id": 8,
+    "product": "Town",
+    "floorplan": "forest_main.svg",
+    "calloutNumber": 2,
+    "x": 68.58,
+    "y": 15.06,
+    "img": "2.jpg",
+    "text": "Add elegance with opt. coffered ceiling"
+  },
+  {
+    "id": 9,
+    "product": "Town",
+    "floorplan": "forest_main.svg",
+    "calloutNumber": 6,
+    "x": 28.96,
+    "y": 40.22,
+    "img": "6.jpg",
+    "text": "Extra large walk-in closet"
+  },
+  {
+    "id": 10,
+    "product": "Town",
+    "floorplan": "forest_main.svg",
+    "calloutNumber": 8,
+    "x": 66.07,
+    "y": 24.97,
+    "img": "8.jpg",
+    "text": "Open concept living"
+  },
+  {
+    "id": 11,
+    "product": "Town",
+    "floorplan": "horizon_lower.svg",
+    "calloutNumber": 10,
+    "x": 4.71,
+    "y": 45.3,
+    "img": "",
+    "text": "Bump out windows for max space"
+  },
+  {
+    "id": 12,
+    "product": "Town",
+    "floorplan": "horizon_main.svg",
+    "calloutNumber": 3,
+    "x": 70.61,
+    "y": 70.68,
+    "img": "",
+    "text": "Extra-wide garage for storage"
+  },
+  {
+    "id": 13,
+    "product": "Town",
+    "floorplan": "horizon_main.svg",
+    "calloutNumber": 7,
+    "x": 62.93,
+    "y": 50.75,
+    "img": "7.jpg",
+    "text": "Convenient walk-in pantry"
+  },
+  {
+    "id": 14,
+    "product": "Town",
+    "floorplan": "horizon_main.svg",
+    "calloutNumber": 8,
+    "x": 62.18,
+    "y": 22.75,
+    "img": "8.jpg",
+    "text": "Open concept living"
+  },
+  {
+    "id": 15,
+    "product": "Town",
+    "floorplan": "horizon_main.svg",
+    "calloutNumber": 9,
+    "x": 18.13,
+    "y": 30.68,
+    "img": "",
+    "text": "His/her closet for an organized space"
+  },
+  {
+    "id": 16,
+    "product": "Town",
+    "floorplan": "horizon_main.svg",
+    "calloutNumber": 10,
+    "x": 5.23,
+    "y": 45.3,
+    "img": "",
+    "text": "Bump out windows for max space"
+  },
+  {
+    "id": 17,
+    "product": "Town",
+    "floorplan": "horizon_main.svg",
+    "calloutNumber": 12,
+    "x": 9.6,
+    "y": 88.66,
+    "img": "12.jpg",
+    "text": "Spacious front porch for relaxing"
+  },
+  {
+    "id": 18,
+    "product": "Semi",
+    "floorplan": "meadow_main_1.svg",
+    "calloutNumber": 2,
+    "x": 12.13,
+    "y": 23.44,
+    "img": "2.jpg",
+    "text": "Add elegance with opt. coffered ceiling"
+  },
+  {
+    "id": 19,
+    "product": "Semi",
+    "floorplan": "meadow_main_1.svg",
+    "calloutNumber": 5,
+    "x": 28.88,
+    "y": 15.14,
+    "img": "",
+    "text": "Add style with opt. electric fireplace"
+  },
+  {
+    "id": 20,
+    "product": "Semi",
+    "floorplan": "meadow_main_2.svg",
+    "calloutNumber": 2,
+    "x": 66.93,
+    "y": 18.47,
+    "img": "2.jpg",
+    "text": "Add elegance with opt. coffered ceiling"
+  },
+  {
+    "id": 21,
+    "product": "Semi",
+    "floorplan": "meadow_main_2.svg",
+    "calloutNumber": 6,
+    "x": 77.87,
+    "y": 62.15,
+    "img": "6.jpg",
+    "text": "Extra large walk-in closet"
+  },
+  {
+    "id": 22,
+    "product": "Semi",
+    "floorplan": "meadow_main_2.svg",
+    "calloutNumber": 8,
+    "x": 57.36,
+    "y": 32.31,
+    "img": "8.jpg",
+    "text": "Open concept living"
+  },
+  {
+    "id": 23,
+    "product": "Semi",
+    "floorplan": "river_lower.svg",
+    "calloutNumber": 10,
+    "x": 6.31,
+    "y": 46.84,
+    "img": "",
+    "text": "Bump out windows for max space"
+  },
+  {
+    "id": 24,
+    "product": "Semi",
+    "floorplan": "river_main.svg",
+    "calloutNumber": 1,
+    "x": 66.37,
+    "y": 15.42,
+    "img": "",
+    "text": "Grand glass slider & window to deck"
+  },
+  {
+    "id": 25,
+    "product": "Semi",
+    "floorplan": "river_main.svg",
+    "calloutNumber": 8,
+    "x": 54.34,
+    "y": 28.8,
+    "img": "8.jpg",
+    "text": "Open concept living"
+  },
+  {
+    "id": 26,
+    "product": "Semi",
+    "floorplan": "river_main.svg",
+    "calloutNumber": 10,
+    "x": 6.71,
+    "y": 46.84,
+    "img": "",
+    "text": "Bump out windows for max space"
+  },
+  {
+    "id": 27,
+    "product": "Town",
+    "floorplan": "shore_lower.svg",
+    "calloutNumber": 10,
+    "x": 7.87,
+    "y": 37.87,
+    "img": "",
+    "text": "Bump out windows for max space"
+  },
+  {
+    "id": 28,
+    "product": "Town",
+    "floorplan": "shore_main.svg",
+    "calloutNumber": 8,
+    "x": 60.81,
+    "y": 19.72,
+    "img": "8.jpg",
+    "text": "Open concept living"
+  },
+  {
+    "id": 29,
+    "product": "Town",
+    "floorplan": "shore_main.svg",
+    "calloutNumber": 10,
+    "x": 11.45,
+    "y": 37.87,
+    "img": "",
+    "text": "Bump out windows for max space"
+  },
+  {
+    "id": 30,
+    "product": "Town",
+    "floorplan": "shore_main.svg",
+    "calloutNumber": 12,
+    "x": 20.36,
+    "y": 88.96,
+    "img": "12.jpg",
+    "text": "Spacious front porch for relaxing"
+  },
+  {
+    "id": 31,
+    "product": "Town",
+    "floorplan": "shore_main.svg",
+    "calloutNumber": 13,
+    "x": 86.84,
+    "y": 19.47,
+    "img": "",
+    "text": "Over-sized breakfast area"
+  },
+  {
+    "id": 32,
+    "product": "Town",
+    "floorplan": "sky_lower.svg",
+    "calloutNumber": 10,
+    "x": 85.15,
+    "y": 35.73,
+    "img": "",
+    "text": "Bump out windows for max space"
+  },
+  {
+    "id": 33,
+    "product": "Town",
+    "floorplan": "sky_main.svg",
+    "calloutNumber": 1,
+    "x": 44.84,
+    "y": 14.87,
+    "img": "",
+    "text": "Grand glass slider & window to deck"
+  },
+  {
+    "id": 34,
+    "product": "Town",
+    "floorplan": "sky_main.svg",
+    "calloutNumber": 8,
+    "x": 44.48,
+    "y": 24.24,
+    "img": "8.jpg",
+    "text": "Open concept living"
+  },
+  {
+    "id": 35,
+    "product": "Town",
+    "floorplan": "sky_main.svg",
+    "calloutNumber": 9,
+    "x": 58.85,
+    "y": 34.06,
+    "img": "",
+    "text": "His/her closet for an organized space"
+  },
+  {
+    "id": 36,
+    "product": "Town",
+    "floorplan": "sky_main.svg",
+    "calloutNumber": 10,
+    "x": 81.37,
+    "y": 39.3,
+    "img": "",
+    "text": "Bump out windows for max space"
+  },
+  {
+    "id": 37,
+    "product": "Town",
+    "floorplan": "sky_main.svg",
+    "calloutNumber": 12,
+    "x": 78.68,
+    "y": 88.7,
+    "img": "12.jpg",
+    "text": "Spacious front porch for relaxing"
+  },
+  {
+    "id": 38,
+    "product": "Town",
+    "floorplan": "sunset_main.svg",
+    "calloutNumber": 5,
+    "x": 83.68,
+    "y": 23.76,
+    "img": "",
+    "text": "Add style with opt. electric fireplace"
+  },
+  {
+    "id": 39,
+    "product": "Town",
+    "floorplan": "sunset_main.svg",
+    "calloutNumber": 6,
+    "x": 27.01,
+    "y": 39.89,
+    "img": "6.jpg",
+    "text": "Extra large walk-in closet"
+  },
+  {
+    "id": 40,
+    "product": "Town",
+    "floorplan": "sunset_main.svg",
+    "calloutNumber": 8,
+    "x": 66.43,
+    "y": 25.14,
+    "img": "8.jpg",
+    "text": "Open concept living"
+  },
+  {
+    "id": 41,
+    "product": "Town",
+    "floorplan": "wind_main.svg",
+    "calloutNumber": 6,
+    "x": 29.93,
+    "y": 40.18,
+    "img": "6.jpg",
+    "text": "Extra large walk-in closet"
+  },
+  {
+    "id": 42,
+    "product": "Town",
+    "floorplan": "wind_main.svg",
+    "calloutNumber": 8,
+    "x": 77.57,
+    "y": 33.36,
+    "img": "8.jpg",
+    "text": "Open concept living"
+  },
+  {
+    "id": 43,
+    "product": "Town",
+    "floorplan": "wind_main.svg",
+    "calloutNumber": 13,
+    "x": 76.46,
+    "y": 41.91,
+    "img": "",
+    "text": "Over-sized breakfast area"
+  }
+]

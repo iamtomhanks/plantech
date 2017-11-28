@@ -1,0 +1,17 @@
+html {
+	height: 100%;
+}
+
+body{
+	background: url('/images/background.jpeg');
+	background-size: 100% auto;
+	height: 100%;
+	padding: 0;
+	margin: 0;
+	background-repeat:no-repeat;
+}
+
+img {
+	width: 100%;
+	height: auto;
+}
